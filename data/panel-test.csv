@@ -1,0 +1,6 @@
+id,row,column,section,installationYear,material,tracking
+1,1,2,UpperHill,203,MONOSI,false
+2,1,2,Main,2019,MONOSI,false
+3,2,1,UpperHill,2018,ASI,true
+4,3,234,Main,2024,MONOSI,true
+6,250,250,Test2,2024,CDTE,false

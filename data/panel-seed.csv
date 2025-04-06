@@ -1,0 +1,4 @@
+id,row,column,section,installationYear,material,tracking
+1,1,1,Main,2020,MCSI,true
+2,1,2,Main,2019,MONOSI,false
+3,2,1,UpperHill,2018,ASI,true
